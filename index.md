@@ -10,8 +10,9 @@ Hạt nhân của chương trình máy tính là sự lưu trữ và xử lý th
 </p>
 <p>
 Xác định bài toán:  Cho một số nguyên   dương n, tìm cách phân tích n thành tổng các số nguyên dương sao cho tích các số đó là lớn nhất.
-  –  Trong thực tế, ta nên xét một vài trường hợp cụ thể, thông qua đó hiểu được bài toán rõ hơn và thấy được các thao tác cần phải tiến hành. Đối với những bài toán đơn giản, đôi khi chỉ cần qua ví dụ là ta có thể đưa về một bài toán quen thuộc để giải
+Trong thực tế, ta nên xét một vài trường hợp cụ thể, thông qua đó hiểu được bài toán rõ hơn và thấy được các thao tác cần phải tiến hành. Đối với những bài toán đơn giản, đôi khi chỉ cần qua ví dụ là ta có thể đưa về một bài toán quen thuộc để giải
 </p>
+<p>
   Việc xác định bài toán tức là xác định xem ta phải giải quyết vấn đề gì?, với giả thiết nào đã cho và lới giải cần đạt những yêu cầu gì. Khác với các bài toán thuần túy trong toán học là chỉ cần xác định rõ giả thiết và kết luận chứ không cần xác định yêu cầu về lời giải, đôi khi những bài toán tin học trong thực tế chỉ cần tìm lời giải tốt tới mức nào đó, thậm chí là chỉ ở mức chấp nhận được (nếu lời giải tốt nhất đòi hỏi quá nhiều thời gian và chi phí)
   </p>
 
