@@ -8,6 +8,10 @@ khái niệm hệ thống phân tán lõi được sử dụng bên trong các �
 <p>
 Hạt nhân của chương trình máy tính là sự lưu trữ và xử lý thông tin. Việc tổ chức dữ liệu như thế nào có ảnh hưởng rất lớn đến cách thức xử lý dữ liệu đó, cũng như tốc độ thực thi và sự chiếm dụng bộ nhớ của chương trình. Do đó mục đích của bài viết này là cung cấp những hiểu biết nền tảng trong việc thiết kế một chương trình máy tính để thấy rõ được sự cần thiết của việc phân tích, lựa chọn cấu trúc dữ liệu phù hợp cho từng bài toán cụ thể. 
 </p>
+<p>
+  Việc xác định bài toán tức là xác định xem ta phải giải quyết vấn đề gì?, với giả thiết nào đã cho và lới giải cần đạt những yêu cầu gì. Khác với các bài toán thuần túy trong toán học là chỉ cần xác định rõ giả thiết và kết luận chứ không cần xác định yêu cầu về lời giải, đôi khi những bài toán tin học trong thực tế chỉ cần tìm lời giải tốt tới mức nào đó, thậm chí là chỉ ở mức chấp nhận được (nếu lời giải tốt nhất đòi hỏi quá nhiều thời gian và chi phí)
+  </p>
+  
 
 
 
