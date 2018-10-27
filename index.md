@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Website Page
 
-You can use the [editor on GitHub](https://github.com/dnutest/dnutest.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Chuyên ngành điện toán đám mây sẽ đưa bạn đi qua các hệ thống điện toán đám mây. Chúng ta bắt đầu ở tầng giữa với các khái niệm điện toán đám mây bao gồm các khái niệm hệ thống phân tán lõi được sử dụng bên trong các đám mây, di chuyển đến tầng trên của các ứng dụng đám mây và cuối cùng đến tầng đám mây thấp hơn
 
 ### Markdown
 
