@@ -18,6 +18,6 @@ Trong thực tế, ta nên xét một vài trường hợp cụ thể, thông qu
   Việc xác định bài toán tức là xác định xem ta phải giải quyết vấn đề gì?, với giả thiết nào đã cho và lới giải cần đạt những yêu cầu gì. Khác với các bài toán thuần túy trong toán học là chỉ cần xác định rõ giả thiết và kết luận chứ không cần xác định yêu cầu về lời giải, đôi khi những bài toán tin học trong thực tế chỉ cần tìm lời giải tốt tới mức nào đó, thậm chí là chỉ ở mức chấp nhận được (nếu lời giải tốt nhất đòi hỏi quá nhiều thời gian và chi phí)
   </p>
   
-
+<img src="chuongTuDi.jpg"></img>
 
 
