@@ -21,3 +21,4 @@ Trong thực tế, ta nên xét một vài trường hợp cụ thể, thông qu
 <img src="chuongTuDi.jpg"/>
 
 
+
